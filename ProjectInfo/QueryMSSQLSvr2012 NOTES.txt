@@ -1,0 +1,59 @@
+
+======================
+***Project Description
+======================
+
+- My Exercises on Querying MS SQL Server 2012
+
+
+=====================
+***Project Locations: 
+=====================
+
+[2015]
+
+- LOCALLY DEVICE: 
+  
+  //hunter/MOZAMBI//c:\mnt\m2\projects\QueryMSSQLSvr2012
+
+
+
+
+
+
+
+
+=================================
+***Git Repository Creation Plan:
+=================================
+
+- Create Bare Repo on Gitbub.
+
+- Clone Repo to local device.
+
+- Add project directory to local repo.
+
+- Commit changes (project direct add) to Github.
+
+
+
+***Initial Commit:
+
+- Commit Summary
+
+Added initial project files.
+
+- Commit Description
+
+Added exercise files directory, Docs directory, ProjectInfo directory, and Resources directory.
+
+
+
+
+
+
+
+
+
+
+
